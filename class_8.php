@@ -136,31 +136,39 @@
         <tr>
           <td>1</td>
           <td>Ram</td>
-          <td>10A</td>
+          <td>8A</td>
           <td><input type="radio" name="attendance[1]" value="Present" required></td>
           <td><input type="radio" name="attendance[1]" value="Absent"></td>
         </tr>
         <tr>
           <td>2</td>
           <td>Sita</td>
-          <td>10A</td>
+          <td>8A</td>
           <td><input type="radio" name="attendance[2]" value="Present" required></td>
           <td><input type="radio" name="attendance[2]" value="Absent"></td>
         </tr>
         <tr>
           <td>3</td>
           <td>Hari</td>
-          <td>10B</td>
+          <td>8A</td>
           <td><input type="radio" name="attendance[3]" value="Present" required></td>
           <td><input type="radio" name="attendance[3]" value="Absent"></td>
         </tr>
         <tr>
           <td>4</td>
           <td>Gita</td>
-          <td>10B</td>
+          <td>8A</td>
           <td><input type="radio" name="attendance[4]" value="Present" required></td>
           <td><input type="radio" name="attendance[4]" value="Absent"></td>
         </tr>
+        <tr>
+          <td>5</td>
+          <td>syam</td>
+          <td>8A</td>
+          <td><input type="radio" name="attendance[4]" value="Present" required></td>
+          <td><input type="radio" name="attendance[4]" value="Absent"></td>
+        </tr>
+
       </tbody>
     </table>
 
