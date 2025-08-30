@@ -61,7 +61,7 @@
   <div class="container">
     <h2>Select Class</h2>
 
-    <form action="attendance_form.php" method="GET">
+    <form action="clas_8.php" method="GET">
       <select name="class" required>
         <option value="">-- Choose Class --</option>
         <option value="8">Class 8</option>
@@ -70,10 +70,11 @@
         <option value="11">Class 11</option>
         <option value="12">Class 12</option>
       </select>
-
-      <button type="submit">Take Attendance</button>
+      
+      <button type="submit"><a href="class_8.php">📋Attendance</a></button>
+      
       <?php
-    //   header ("location:class_8.php");
+   // header ("location:class_8.php");
      ?>
     </form>
   </div>

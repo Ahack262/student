@@ -119,7 +119,7 @@
 
   <h2>Student Attendance Form</h2>
 
-  <form action="submit_attendance.php" method="POST">
+  <form action="attendance.php" method="POST">
 
     <table>
       <thead>

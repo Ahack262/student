@@ -162,7 +162,7 @@
   <div class="sidebar">
     <h2>Student Attendance</h2>
     <a href="#">🏠 Dashboard</a>
-    <a href="#">📅 Mark Attendance</a>
+    <a href="attendance.php">📅 Attendance</a>
     <a href="#">📋 View Attendance</a>
     <a href="#">🧑‍🎓 Manage Students</a>
     <a href="#">⚙️ Settings</a>
